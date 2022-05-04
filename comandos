@@ -1,0 +1,3 @@
+Comandos :
+	traceroute www.sitio.com 	//La ruta desde nuestro ordenador hacia la pagina web
+>>>>>>>	python3 nombre_archivo.ph <<<<<<<	//Para compilar
